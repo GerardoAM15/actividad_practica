@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: actividad-practica
+  profiles:
+    active: dev
+
+server:
+  port: 8080
